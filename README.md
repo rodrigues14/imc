@@ -8,5 +8,5 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 <br>
-<p>Link:</p>
+<p>Link: https://rodrigues14.github.io/imc/</p>
 <p>✔ Insira seu nome, altura e peso e descubra qual é o seu IMC</p>
